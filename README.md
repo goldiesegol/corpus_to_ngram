@@ -20,6 +20,6 @@ Input a corpus and get ngram relative frequency visualizations
         INFO:     connection open
 
 5. Copy and past the URl into your browser
-* Here, the URL is http://127.0.0.1:8000
+* Here, the URL is http://127.0.0.1:8000 but yours might be different.
 
 Note: Ignore the first tab, it is a placeholder for later changes.

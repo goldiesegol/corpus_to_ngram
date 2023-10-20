@@ -1,5 +1,7 @@
 # corpus_to_ngram
-Input a corpus and get ngram relative frequency visualizations
+Input a corpus and get ngram relative frequency visualizations. This is the first stage, so right now it is only compatible with the two CSV files in the repository. In the future, there will be features to process other corpora. The current CSV files are from the Providence Corpus.
+
+         https://sla.talkbank.org/TBB/phon/Eng-NA/Providence
 
 # How to use:
 1. Download app.py and the two CSVs in the same folder.

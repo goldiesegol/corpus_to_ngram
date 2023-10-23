@@ -9,7 +9,7 @@ Input a corpus and get ngram relative frequency visualizations. This is the firs
 3. Open terminal and navigate to folder containing app.py and CSV files
 4. Run this command:
 
-         shiny run app.py
+   shiny run app.py
 
    Your terminal should display something like this:
 
